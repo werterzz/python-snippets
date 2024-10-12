@@ -13,5 +13,7 @@ My Collections of Python Snippets
 
 `numbers = [1, 2, 3]; print(sum(numbers))` - Sum of a list
 
-`x=0
-while x < 5: x += 1; print(x);` - Simple while loop
+```
+x=0
+while x < 5: x += 1; print(x);
+``` - Simple while loop
