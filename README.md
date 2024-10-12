@@ -1,6 +1,22 @@
 # python-snippets
 My Collections of Python Snippets
 
+Simple conditional statement
+```
+x = 10
+if x > 5: print("Greater than 5")
+```
+
+Basic for loop
+```
+for i in range(10): print(i)
+```
+
+Basic for loop
+```
+for i in range(10): print(i)
+```
+
 Exponentiation
 ```
 print(2 ** 3)
