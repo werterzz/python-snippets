@@ -2,7 +2,9 @@
 My Collections of Python Snippets
 
 Exponentiation
-```print(2 ** 3)```
+```
+print(2 ** 3)
+```
 
 `age = int(input("Enter your age: "))` - Get user input as integer
 
@@ -15,7 +17,7 @@ Exponentiation
 `numbers = [1, 2, 3]; print(sum(numbers))` - Sum of a list
 
 Simple while loop
-```
+`
 x=0
 while x < 5: x += 1; print(x);
-```
+`
