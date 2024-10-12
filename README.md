@@ -1,7 +1,8 @@
 # python-snippets
 My Collections of Python Snippets
 
-`print(2 ** 3)` - Exponentiation
+Exponentiation
+```print(2 ** 3)```
 
 `age = int(input("Enter your age: "))` - Get user input as integer
 
