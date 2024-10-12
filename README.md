@@ -6,18 +6,33 @@ Exponentiation
 print(2 ** 3)
 ```
 
-`age = int(input("Enter your age: "))` - Get user input as integer
+Get user input as integer
+```
+age = int(input("Enter your age: "))
+```
 
-`name = "John"; print(name[0])` - String indexing
+String indexing
+```
+name = "John"; print(name[0])
+```
 
-`print("Hello" if True else "Goodbye")` - Conditional expression
+Conditional expression
+```
+print("Hello" if True else "Goodbye")
+```
 
-`name = "John"; print(name.upper())` - String method (uppercase)
+Uppercase
+```
+name = "John"; print(name.upper())
+```
 
-`numbers = [1, 2, 3]; print(sum(numbers))` - Sum of a list
+Sum of a list
+```
+numbers = [1, 2, 3]; print(sum(numbers))
+```
 
 Simple while loop
-`
+```
 x=0
 while x < 5: x += 1; print(x);
-`
+```
